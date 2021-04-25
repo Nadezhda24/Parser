@@ -1,34 +1,36 @@
 ﻿  Source.cpp
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(39): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(39): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "tree"
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(111): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(129): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(179): warning C4129: W: неизвестная escape-последовательность
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(181): warning C4129: W: неизвестная escape-последовательность
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(181): warning C4129: ^: неизвестная escape-последовательность
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(181): warning C4129: |: неизвестная escape-последовательность
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(193): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(204): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(229): warning C4018: >: несоответствие типов со знаком и без знака
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(240): warning C4018: >: несоответствие типов со знаком и без знака
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(241): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(249): warning C4018: >: несоответствие типов со знаком и без знака
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(250): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(260): warning C4018: >: несоответствие типов со знаком и без знака
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(261): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(275): warning C4018: >: несоответствие типов со знаком и без знака
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(276): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(284): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(294): warning C4018: >: несоответствие типов со знаком и без знака
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(312): warning C4018: >: несоответствие типов со знаком и без знака
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(318): warning C4018: >: несоответствие типов со знаком и без знака
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(339): warning C4018: >: несоответствие типов со знаком и без знака
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(352): warning C4018: >: несоответствие типов со знаком и без знака
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(378): warning C4018: >: несоответствие типов со знаком и без знака
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(393): warning C4018: >: несоответствие типов со знаком и без знака
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(396): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(403): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(408): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(416): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(422): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(428): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(121): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(139): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(186): warning C4129: W: неизвестная escape-последовательность
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(188): warning C4129: W: неизвестная escape-последовательность
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(188): warning C4129: ^: неизвестная escape-последовательность
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(188): warning C4129: |: неизвестная escape-последовательность
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(200): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(214): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(244): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(258): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(259): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(271): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(272): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(286): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(287): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(304): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(305): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(317): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(327): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(349): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(362): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(396): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(415): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(450): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(472): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(475): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(486): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(491): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(500): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(506): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(512): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(542): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(546): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\desktop\программы-20210221t143353z-001\source.cpp(331): warning C4715: Expr: значение возвращается не при всех путях выполнения
+  Parser.vcxproj -> C:\Users\Asus\source\repos\Parser\Debug\Parser.exe
