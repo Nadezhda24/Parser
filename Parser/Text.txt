@@ -1,48 +1,7 @@
-d = d + c ;
-if ( c ) {
-d = f + c ;
-d = f + c ;
-}
-else {
-while ( c != d ) {
-d = d + d ;
-}
-do {
-s = x + d - 8 / 6 ;
-} while ( s == d ) ;
-}
-while ( c <= d ) {
-d = d + c ;
-if ( c ) {
-d = d + d ;
-}
-else {
-while ( c != d ) {
-d = d + d ;
-}
-do {
-s = x + d ;
-} while ( s == d ) ;
-}
-while ( c <= d ) {
-d = d + d ;
-}
-do {
-s = x + d ;
-} while ( s >= d ) ;
-do {
-s = x + d ;
-d = d + c ;
-if ( d > v ) {
-s = x + d ;
-d = d + c ;
-}
-} while ( s >= d ) ;
 if ( s != s ) {
 do {
 s = x + d ;
 } while ( s >= d ) ;
-}
 }
 do {
 s = x + d ;
